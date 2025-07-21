@@ -27,7 +27,6 @@ This project is a front-end clone of the Amazon homepage built using **HTML** an
 | ![Hero](Screenshot%20(143).png) | ![Products](Screenshot%20(144).png) | ![Footer](Screenshot%20(145).png) |
 | ![More View](Screenshot%20(146).png) | | |
 
-> 📁 Make sure you place your screenshots inside a folder named `screenshots/` in your repository for proper image loading.
 
 ---
 
